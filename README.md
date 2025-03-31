@@ -1,29 +1,18 @@
 # vue-router-review
 
-This template should help get you started developing with Vue 3 in Vite.
+# Inicialização do Projeto
 
-## Recommended IDE Setup
+1. Instale as dependências do Projeto:
+    ```bash
+    npm i
+    ```
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# Rodando o Projeto
 
-## Customize configuration
+1. Inicie o servidor local do VueJs:
+    ```bash
+    npm run dev
+    ```
+# Objetivo do Projeto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+O objetivo principal deste repositório foi revisar conceitos do vue-route.
